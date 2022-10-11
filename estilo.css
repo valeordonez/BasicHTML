@@ -1,0 +1,26 @@
+.boton_personalizado{
+    text-decoration: none;
+    font-family: Verdana;
+    padding: 5px;
+    font-weight: 800;
+    font-size: 30px;
+    color: #F2F2F2;
+    background-color: #d23250;
+    border-radius: 5px;
+    border: 2px solid #BF0B2C;
+    text-align: center;
+}
+
+.boton_personalizado:hover{
+    color: #BF0B2C;
+    background-color: #F2F2F2;
+}
+
+.container {
+    top: auto;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    display: grid;
+    align-items: center;
+}
